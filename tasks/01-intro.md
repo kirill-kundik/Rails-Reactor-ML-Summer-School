@@ -1,0 +1,5 @@
+- Go through [git tutorial](http://pcottle.github.com/learnGitBranching/) if you didn't work with git. Consider going through [git magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/ch01.html) in background.
+- Setup py 3, [virtualenv](https://virtualenv.pypa.io/en/latest/), docker, docker-compose
+- Setup editor for python. ([pycharm](https://www.jetbrains.com/pycharm/) / [vs code + python](https://code.visualstudio.com/docs/python/python-tutorial))
+- Create a Merge Request to [https://ml-course-git.railsreactor.net/summer-19/summer-19](https://ml-course-git.railsreactor.net/summer-19/summer-19) creating a folder after your name / nickname with a single file with content 'I agree to RR ML Course Code of Conduct and I mean it'
+- Login into [discord](https://discord.gg/kM7Qvv6), set your server alias to real name / surname. Preferably set your avatar as your photo so it’s easier to learn who is who

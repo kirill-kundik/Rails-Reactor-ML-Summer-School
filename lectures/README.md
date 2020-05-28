@@ -1,0 +1,13 @@
+1. [#1 - Introduction to the course](https://docs.google.com/presentation/d/11RMTbuq9ovOsml7VFKy04WSuR_2Xf--JwPTTY7KOips/)
+2. [#2 - Python part 1](https://docs.google.com/presentation/d/18P2BXJcs75ZypUY9HrQk4B9iLLtCG4S-5C3fGGD5NFY)
+3. [#3 - ML Intro](https://docs.google.com/presentation/d/1ej4qhPiduLL1oGKD3J5xKiye4Baqd_kFTRXJFMvK6Z0)
+4. [#4 - ML metrics, validation, features](https://docs.google.com/presentation/d/1JArgljrV2DyshUHyLjYBUqTGbJzKLSqjtCrEzn8d1ik)
+5. [#5 - EDA](https://docs.google.com/presentation/d/1YI_ZN6CfgEtyf4GW2ZXh_yYAfZpaI3qFj-w4adAv3gk)
+6. [#6 - С extensions, ML frameworks, GPU](https://docs.google.com/presentation/d/14Nr4ivPabr3s4DOYpue9cKDBODbVEJ_fC_nT85V0QHE)
+7. [#7 - Databases](https://docs.google.com/presentation/d/1O__FE1BaVKP46C4T9kHmI4tDlCo6VUM6T4DtgTr6An8)
+8. [#NA - Workshop Pipeline](https://ml-course-git.railsreactor.net/summer-19/summer-19/blob/master/lectures/workshop_pipeline.ipynb) - part of extracurricular event featuring Pipeline/FeatureUnion.
+9. [#8 - Client-server architecture](https://docs.google.com/presentation/d/1zkhfOxJwhfo2NuDGs8vXFS_x7QloSytGxEPRhx8YlHI)
+10. [#9 - Data acquisition and how to manage data](https://docs.google.com/presentation/d/1HFlRwLm_eksurAehiDVnpB2CK_QXtlPRXJUoscK2zGs)
+11. [#10 - Trees and ensembles](https://docs.google.com/presentation/d/1Fs6SGJBmmQ7f06DKXlxblx7_S3HGYOT1lXG9CiS8IL8/)
+12. [#11 - Neural Networks](https://docs.google.com/presentation/d/1xpRj2EEVXd0lkidTm8LR_oFAiIE5kvLySU4KL7fc3Jg/)
+13. [#12 - Unsupervised Learning](https://docs.google.com/presentation/d/1uP5sf3R6_9xOljwPDHRltcJQttwtlw2jqDnrQgExUL4/edit?usp=sharing)
