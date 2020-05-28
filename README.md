@@ -1,10 +1,6 @@
 # RR ML Course
 ## Summer, 2019
 
-## General info
-
-Discord chat - [here](https://discord.gg/kM7Qvv6)
-
 ## Lectures
  
 See [lectures](/lectures)
